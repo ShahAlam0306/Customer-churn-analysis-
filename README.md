@@ -61,8 +61,8 @@ This project performs **Exploratory Data Analysis (EDA)** on a telecom provider'
 
 ## 👤 Author:
 **Shah Alam**  
-Aspiring Data Analyst | Power BI Enthusiast  
-🔗 [GitHub Profile](https://github.com/ShahAlam0306)
+Aspiring Data Analyst 
+
 
 ---
 
